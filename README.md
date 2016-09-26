@@ -3,4 +3,5 @@
 
 2) Change 2 variable in DFUViewController.m openVideoFunction()  relating to videoFilename and videoFilenameExtension
 
+![cgi_playing](https://cloud.githubusercontent.com/assets/19972649/18820815/d70c1d6e-83b1-11e6-88a4-4ec05cffc0e6.png)
 
